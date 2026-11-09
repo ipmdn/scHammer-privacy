@@ -1,0 +1,2 @@
+# scHammer-privacy
+Privacy manifest
